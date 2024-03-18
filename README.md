@@ -30,8 +30,6 @@ Flappy Mario is a simple game inspired by the classic Flappy Bird game, featurin
 - Press the spacebar or the up arrow key to make Mario flap and ascend.
 - Release the key to let Mario descend.
 
-## Screenshots
-![Gameplay Screenshot](gallery/sprites.message)
 
 ## Contributions
 Contributions to the project are welcome! Feel free to submit bug fixes, enhancements, or new features through pull requests.
